@@ -1,0 +1,29 @@
+    <!-- --quotation and citation--
+
+    blockquote <blockquote></blockquote>--one step in
+    quatation <q></q>--"" marks
+    bdo--by directional <bdo></bdo>-- reverse print {dir=R to L, L to R, AUTO}attribute
+    abbrivation tag <abbr></abbr> {title=}attribute
+    address <address></address>--style changes
+    break tag <br>--break the lines and  
+
+<audio src="" controls> </audio>
+     <video  src="" controls width="" > </video>
+
+  LIST IN HTML----<li>
+  1) ORDERED LIST----<ol>
+  2) UNORDERED LIST----<ul>
+  3) DESCRIPTION / DEFINITION---<dl> <dt> description title, <dd> description data -->
+
+<!--DIVISION---<div> 
+ 
+    <span>-----continuvity of one line
+
+    TYPES OF ELEMENTS
+    BLOCK ELEMENTS---<block elements> starts with new line
+    INLINE ELEMENTS---<inline elements> starts with one line
+    VOID ELEMENTS---- 
+    
+    horizondal---<hr>
+    
+     -->
